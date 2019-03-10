@@ -11,7 +11,9 @@ Material for submission to QMSKI 2019 (https://qmski.org/):
   - `4.Morphology_QM.ipynb`  
   - `5.Data_analysis.ipynb`  
 
-Presentation [here](https://github.com/sbonaretti/sbonaretti.github.io/blob/master/_attachments/2019_QMSKI_pykneer.pdf)
+- Presentation [here](https://github.com/sbonaretti/sbonaretti.github.io/blob/master/_attachments/2019_QMSKI_pykneer.pdf)
 
-pyKNEEr [here](https://github.com/sbonaretti/pyKNEEr)  
+- pyKNEEr [here](https://github.com/sbonaretti/pyKNEEr)   
+
+- Workshop [here](https://github.com/sbonaretti/2019_QMSKI_Transparent_Research_WS)
 
