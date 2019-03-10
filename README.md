@@ -1,5 +1,5 @@
 # 2019_QMSKI
-Material for the submission to QMSKI 2019 (https://qmski.org/):
+Material for submission to QMSKI 2019 (https://qmski.org/):
 
 - `Abstract.pdf`
 - `data.txt`
